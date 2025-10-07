@@ -65,7 +65,7 @@ Provide financial transparency and aid decision-making for senior stakeholders.
 ---
 
 ### 🧾 **Summary**
-This project demonstrates practical expertise in **Sales & Financial Data Analysis**, **Power BI/Excel reporting**, and **business performance monitoring** — bridging the gap between **data analytics and strategic decision-making**.
+This project demonstrates practical expertise in **Sales & Financial Data Analysis**, **Power BI/Excel reporting**, and **business performance monitoring**  bridging the gap between **data analytics and strategic decision-making**.
 
 ---
 
