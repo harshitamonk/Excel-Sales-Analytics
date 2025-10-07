@@ -1,5 +1,11 @@
 # 📊 Sales & Finance Performance Analysis
 
+### 👨‍💻 **Created by:** [Harshit Pandey](https://www.linkedin.com/in/harshitamonk/)
+📧 **Email:** harshitamonk@gmail.com  
+💼 **GitHub:** [harshitamonk](https://github.com/harshitamonk)
+
+---
+
 ## 💼 **Sales Report**
 
 ### 🎯 **Project Objectives**
@@ -15,8 +21,8 @@ Empower business teams to track, monitor, and optimize sales performance through
 - Helped reveal potential business expansion opportunities across countries.
 
 🔗 **Project Links:**  
-- [Customer Performance Report]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf](https://github.com/harshitamonk/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf))  
-- [Market vs. Target Analysis]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/Customer%20Performance%20Report.pdf](https://github.com/harshitamonk/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf))
+- [Customer Performance Report](https://github.com/harshitamonk/Excel-Sales-Analytics/blob/main/Customer%20Performance%20Report.pdf)  
+- [Market vs. Target Report](https://github.com/harshitamonk/Excel-Sales-Analytics/blob/main/Market%20Performance%20vs%20Target%20Report.pdf)
 
 ---
 
@@ -35,9 +41,9 @@ Provide financial transparency and aid decision-making for senior stakeholders.
 - Supported alignment of financial plans with strategic business goals.
 
 🔗 **Project Links:**  
-- [P&L by Fiscal Year]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf](https://github.com/harshitamonk/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf))  
-- [P&L by Month]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Months.pdf](https://github.com/harshitamonk/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf))  
-- [P&L by Market]([https://github.com/KirandeepMarala/Excel-Sales_Analysis/blob/main/P%26L%20Statement%20by%20Markets.pdf](https://github.com/harshitamonk/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf))
+- [P&L by Fiscal Year](https://github.com/harshitamonk/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Fiscal%20Year.pdf)  
+- [P&L by Month](https://github.com/harshitamonk/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Months.pdf)  
+- [P&L by Market](https://github.com/harshitamonk/Excel-Sales-Analytics/blob/main/P%26L%20Statement%20by%20Markets.pdf)
 
 ---
 
@@ -63,5 +69,6 @@ This project demonstrates practical expertise in **Sales & Financial Data Analys
 
 ---
 
-⭐ *If you found this project interesting, don’t forget to star the repo and connect with me!*  
-📧 **Contact:** [Your Email or LinkedIn]
+⭐ *If you found this project valuable, please star the repository and connect with me!*  
+📧 **Contact:** harshitamonk@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/harshitamonk](https://www.linkedin.com/in/harshitamonk/)
